@@ -52,7 +52,7 @@ Key Findings:
  * Job Satisfaction:
    * Overall job satisfaction is moderate.
    * Sales Representatives have the highest job satisfaction, while Research Scientists have the lowest.
-Recommendations:
+# Recommendations:
  * Address Attrition in R&D: Investigate the reasons for high attrition in R&D and implement strategies to improve retention.
  * Focus on Young Employees: Implement programs to improve engagement and retention among younger employees.
  * Enhance Job Satisfaction: Conduct employee surveys to identify areas for improvement in job satisfaction.
